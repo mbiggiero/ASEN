@@ -2,7 +2,7 @@
 A program for automatically calculating various sets of indexes/methods of network analysis. The aim of this program is applying Network Analysis methods for non-coders.  
 The description/documentation of indicators/methods and its limits of applicability can be found at https://www.luciobiggiero.com/
 
-![screenshot1](https://github.com/mbiggiero/ASEN/blob/main/screenshot1.png?raw=true) ![screenshot2](https://github.com/mbiggiero/ASEN/blob/main/screenshot2.png?raw=true) 
+![screenshot2](https://github.com/mbiggiero/ASEN/blob/main/screenshot2.png?raw=true) 
 
 
 Choose a graph (.xls(x) matrix/edgelist, UCINET's DL or pickled NetworkX graph), select a group of indicators and click "Analyze". 
