@@ -9,6 +9,6 @@ Choose a graph (.xls(x) matrix/edgelist, UCINET's DL or pickled NetworkX graph),
 Once a network is submitted to the program, it is automatically diagnosed whether directed/undirected, connected/disconnected, binary/weighted, including/excluding self-links.
 Output files (.txt and .xlsx) will appear in the folder after the analysis is completed.
 
-Most of implemented indicators are imported (and sometimes modified) from NetworkX, while the rest are written from scratch, based on network analysis concepts and methods. Because many indicators have limits of applicability, before choosing please check the complete reference list (and preferably even the code).  
+Note: most of implemented indicators are imported (and sometimes modified) from NetworkX, while the rest are written from scratch, based on network analysis concepts and methods. Because many indicators have limits of applicability, before choosing please check the complete reference list (and preferably even the code).  
 
 Note for coders: this Python script was written with modularity in mind, so adding/modifying indicators/groups for your own use cases should be pretty straightforward.
